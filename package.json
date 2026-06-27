@@ -1,0 +1,9 @@
+{
+  "name": "ytb-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "ytdl-core": "^4.11.5",
+    "ytsr": "^3.9.0",
+    "node-fetch": "^2.6.9"
+  }
+}
